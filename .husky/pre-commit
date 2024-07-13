@@ -1,0 +1,3 @@
+echo 'COMMIT HOOK!!!!!!!!!!!!!!!'
+
+npx lint-staged
